@@ -38,7 +38,7 @@
        System.out.println("The sum of subjects "+sum);
        System.out.println("The Percentage of subjects "+percentage);
 
-
+//khdfjhsdjhjhsjhsjhjshakdhsjhsjsdhdjshj
 
 
 
