@@ -1,8 +1,7 @@
-
 /*
             *********( Introduction to Java )*********
 
-                             Java is one of the popular programming languages because it is used in various
+                             Java is one of the  most popular programming language because it is used in various
 tech fields like App development , Web development , client server applications etc.
 
             Java is an Object Oriented programming language developed by sun microsystems of the USA in 1995.
@@ -27,7 +26,8 @@ Java Installation :
 
 
 */
-        // Related Program:
+        // Related Prog
+
 
         package com.company;
 

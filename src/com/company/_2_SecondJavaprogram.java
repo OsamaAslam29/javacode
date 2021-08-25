@@ -28,8 +28,7 @@
  */
 
              // Related Program:
-
- package com.company;
+    package com.company;
 
 public class _2_SecondJavaprogram {
     public static void main(String[] args) {
