@@ -33,12 +33,12 @@
 public class _2_SecondJavaprogram {
     public static void main(String[] args) {
           System.out.println("HELLOW ");
-        // String a= "osama";
-       // System.out.println("osama"+ "HELLOW");
+         String a= "osama";
+        System.out.println("osama"+ "HELLOW");
         System.out.println("abc");
-        String a = "cde";
+        String F = "cde";
         System.out.println("abc" + a);
-        //  String c = "abc".substring(2, 3)
+          String c = "abc".substring(2, 3);
         // String d = cde.substring(1, 2);
 
 

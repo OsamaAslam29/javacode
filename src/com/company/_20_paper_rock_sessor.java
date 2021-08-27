@@ -63,9 +63,7 @@ public record _20_paper_rock_sessor() {
 
 
 
-    /* osama
 
-*/
 
 
 

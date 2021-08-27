@@ -33,6 +33,6 @@ Java Installation :
 
         public class   _1_Firstjavaprogram {
          public static void main(String[] args) {
-           System.out.println("hello word");
+           System.out.println(" Hello word i am a good boy ");
     }
 }
