@@ -56,7 +56,7 @@ public record _20_paper_rock_sessor() {
         if (computerchoice == 2) {
             System.out.println("\t\tComputer choice : Scissor\n\n");
         }
-        System.out.println("\n\n\t\t\t\t powered by :  uniquedevelopers   ");
+        System.out.println("\n\n\t\t\t\t powered by :  UniqueDevelopers   ");
     }
 
 }
