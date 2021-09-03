@@ -1,6 +1,9 @@
 /*
 
-Practice Questions on Loops
+                   Practice Questions on Loops
+
+
+                  
 Question 1: Write a program to print the following pattern :
 
 ****
@@ -96,7 +99,6 @@ public class cwh_25_practice_set_5 {
 
     }
 }
-
 
 
 
