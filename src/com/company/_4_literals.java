@@ -16,11 +16,9 @@
                       * Words that are reserved and used by the Java compiler. They cannot be used as an Identifier.
 
                  {You can visit docs.oracle.com for a comprehensive list}
+                                       from google
 
 */
-
-   //  Related Program :
-
       package com.company.forth.java;
 
 public class _4_literals {
