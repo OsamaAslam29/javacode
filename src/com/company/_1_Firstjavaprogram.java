@@ -26,7 +26,7 @@ Java Installation :
 
 
 */
-        // Related Prog
+        // Related Program
 
 
         package com.company;
