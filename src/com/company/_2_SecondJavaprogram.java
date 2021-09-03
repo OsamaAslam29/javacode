@@ -25,9 +25,15 @@
   For functions and variables, we use camelCaseConvention. Here the first character is lowercase, and the subsequent
  characters are uppercase like myScanner, myMarks.
 
- */
 
-             // Related Program:
+*
+*
+
+
+  */
+
+
+
     package com.company;
 
 public class _2_SecondJavaprogram {

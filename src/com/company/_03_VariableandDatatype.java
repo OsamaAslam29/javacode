@@ -59,6 +59,5 @@ public class _03_VariableandDatatype {
         int sum = num1 +num2 +num3;
         System.out.println(sum);
         System.out.println(sum);
-        System.out.println(sum);
-    }
+        }
 }
