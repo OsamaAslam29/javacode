@@ -7,12 +7,12 @@ public class _07_Java_Practice {
           //   Question No.1:
 
        // Write a program to sum three numbers in Java:
-//
-//        int a=15;
-//        int b=45;
-//        int c=50;
-//        int sum= a+b+c ;
-//        System.out.println("your sum is  "+sum);
+
+        int a=15;
+        int b=45;
+        int c=50;
+        int sum= a+b+c ;
+        System.out.println("your sum is  "+sum);
 
 
            //  Question No.2:
