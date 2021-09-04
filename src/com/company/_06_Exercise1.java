@@ -23,9 +23,9 @@
              float eng =os.nextFloat();
 
      System.out.print("Enter the Marks of Math: ");
-//     float math=os.nextFloat();
-//
-//      System.out.print("Enter the Marks of Physics: ");
+     float math=os.nextFloat();
+
+      System.out.print("Enter the Marks of Physics: ");
           float  phy=os.nextFloat();
          System.out.print("Enter the Marks of Computer: ");
           float com=os.nextFloat();
@@ -35,8 +35,8 @@
 
           float     sum= eng + math + phy + com + bio ;
           float percentage=(sum/500)*100;
-       System.out.println("The sum of subjects "+sum);
-       System.out.println("The Percentage of subjects "+percentage);
+       System.out.println("The sum of subjects  is "+sum);
+       System.out.println("The Percentage of subjects is "+percentage);
 
 
 
