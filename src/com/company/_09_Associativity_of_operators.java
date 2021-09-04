@@ -29,11 +29,11 @@ public class _09_Associativity_of_operators {
     public static void main(String[] args) {
         //    Question no.1 :
         //      x-y/2
-//        Scanner os= new Scanner(System.in);
-//         float a = os.nextFloat();
-//        Scanner op= new Scanner(System.in);
-//        float b= op.nextFloat();
-//         System.out.println(a*b/2);
+        Scanner os= new Scanner(System.in);
+         float a = os.nextFloat();
+        Scanner op= new Scanner(System.in);
+        float b= op.nextFloat();
+         System.out.println(a*b/2);
 
 
        // Question no.2 :
