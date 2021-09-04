@@ -23,9 +23,9 @@
              float eng =os.nextFloat();
 
      System.out.print("Enter the Marks of Math: ");
-     float math=os.nextFloat();
-
-      System.out.print("Enter the Marks of Physics: ");
+//     float math=os.nextFloat();
+//
+//      System.out.print("Enter the Marks of Physics: ");
           float  phy=os.nextFloat();
          System.out.print("Enter the Marks of Computer: ");
           float com=os.nextFloat();
