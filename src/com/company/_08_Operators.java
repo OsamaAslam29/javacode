@@ -139,6 +139,7 @@ int x=8,y=2;
         System.out.println("int x=8,y=2;");
         System.out.println("And Operator : ( (x>y)&&(x==y))) --->"+( (x>y)&&(x==y)));
         System.out.println("Or Operator : ((x<y)||(x!=y))) ---> "+((x<y)||(x!=y)));
+        System.out.println("Or Operator : ((x<y)||(x!=y))) ---> "+((x<y)||(x!=y)));
         System.out.println("Not operator : !(x==y))------> "+ !(x==y));
     }
 
