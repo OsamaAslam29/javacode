@@ -92,5 +92,13 @@ package com.company;
 public class _17_rational_and_logical_operator {
     public static void main(String[] args) {
 
+        System.out.println("i am not perfect");
+        System.out.println("i am not perfect");
+        System.out.println("i am not perfect");
+        System.out.println("i am not perfect");
+
+
+
+
     }
 }
