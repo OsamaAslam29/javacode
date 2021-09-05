@@ -68,8 +68,14 @@ Question 6:Write a program to find out the type of website from the URL:
 
 package com.company;
 
+import java.util.Scanner;
+
 public class _19_PS_CONDITIONALS {
     public static void main(String[] args) {
-
+        System.out.println("enter a number :");
+        Scanner open = new Scanner(System.in);
+        int clse = open.nextInt();
+        System.out.print("you entered : " );
+        System.out.println(clse);
     }
 }
