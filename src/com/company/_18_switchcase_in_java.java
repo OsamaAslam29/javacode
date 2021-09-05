@@ -1,4 +1,7 @@
 /*
+   A switch can occur within another but in practice, this is rarely done.
+
+  Flow control of switch case in Java :
 
 Switch Case-Control Instruction
 Switch-Case is used when we have to make a choice between the number of alternatives for a given variable.
@@ -16,12 +19,15 @@ Syntax :
 	Case C3:
 		//Code
 		break;
-	default:
+	default;
 		//Code
 
 
-A switch can occur within another but in practice, this is rarely done.
-Flow control of switch case in Java :
+
+
+
+
+
 
 
 
@@ -46,7 +52,7 @@ public class cwh_18_elseif {
         System.out.println("Thanks for using my Java Code!");
 
 
-        /*
+
         int age;
         System.out.println("Enter Your Age");
         Scanner sc = new Scanner(System.in);
@@ -70,12 +76,6 @@ public class cwh_18_elseif {
 
     }
             }
-
-
-
-
-
-
 
 
 
@@ -103,11 +103,3 @@ public class cwh_18_elseif {
 
 
 
-
-package com.company;
-
-public class _18_switchcase_in_java {
-    public static void main(String[] args) {
-
-    }
-}
