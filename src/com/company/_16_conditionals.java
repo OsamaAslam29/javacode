@@ -12,7 +12,7 @@
 Flow control of if-else in Java :
 
 
-Decision-making instructions in Java
+      Decision-making instructions in Java :
 * If-Else Statement
 * Switch Statement
 * If-Else Statement
@@ -25,7 +25,7 @@ if (condition-to-be-checked) {
 else {
 	statements-if-condition-false;
 }
-Example:
+Example :
         int a = 29;
         if (a>18) {
         System.out.println(“You can drive”);
@@ -38,23 +38,29 @@ Example:
 
   *** If-else ladder :
         Instead of using multiple if statements, we can also use else if along with if thus forming an
-        if-else-if-else ladder.
+        if-else-if-else ladder .
 
-    Using such kind of logic reduces indents.
-    Last else is executed only if all the conditions fail.
+    Using such kind of logic reduces indents .
+    Last else is executed only if all the conditions fail .
 
  if (condition1) {
 
             //Statements;
+            //Statements;
+            //Statements;
 
 else if {
 
+            // Statements;
+            // Statements;
             // Statements;
 
 }
 
 else {
 
+            //Statements
+            //Statements
             //Statements
 
 }// conditionals
