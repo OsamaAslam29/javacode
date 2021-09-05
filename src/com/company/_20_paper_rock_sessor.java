@@ -7,6 +7,12 @@ public record _20_paper_rock_sessor() {
     public static void main(String[] args) {
 
 
+        System.out.println("Just Starting java ");
+        System.out.println("Are you for playing :");
+        System.out.println("Hope you will be happy :");
+
+
+
 
 
                      Scanner sc = new Scanner(System.in);
