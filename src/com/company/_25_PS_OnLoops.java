@@ -1,6 +1,6 @@
 /*
 
-                   Practice Questions on Loops
+                   Practice Questions on Loops :
 
 
                   
@@ -35,15 +35,17 @@ Question 10 :A do-while loop is executed:
 
        At least once
        At least twice
-      At most once
+       At most once
+
 Question 11: Repeat problem 2 using for loop.
 
-Code as Described in the Video
+
 package com.company;
 
 public class cwh_25_practice_set_5 {
     public static void main(String[] args) {
         // Practice Problem 1
+
 //        int n = 4;
 //        for (int i=n; i>0; i--){
 //            for(int j=0;j<i;j++){
@@ -53,6 +55,7 @@ public class cwh_25_practice_set_5 {
 //        }
 
         // Practice Problem 2
+
 //        int sum=0;
 //        int n=4;
 //        for(int i=0;i<n;i++){
@@ -63,6 +66,7 @@ public class cwh_25_practice_set_5 {
         // First 4 even numbers are - 0 2 4 6
 
         // Practice Problem 3
+
 //        int n = 5;
 //        //for(int i=0; i<10; i++) - Goes from i=0 to i=9
 //        for(int i=1;i<=10;i++){
@@ -70,6 +74,7 @@ public class cwh_25_practice_set_5 {
 //        }
 
         // Practice Problem 4
+
 //        int n = 10;
 //        //for(int i=0; i<10; i++) - Goes from i=0 to i=9
 //        for(int i=10;i>=1;i--){
@@ -77,6 +82,7 @@ public class cwh_25_practice_set_5 {
 //        }
 
         // Practice Problem 6
+
 //        int n = 5;
 //        // What is factorial n = n * n-1 * n-2 ..... 1
 //        // 5! = 5*4*3*2*1 = 120
@@ -89,6 +95,7 @@ public class cwh_25_practice_set_5 {
 //        System.out.println(factorial);
 
         // Practice Problem 9
+
 //        int n = 8;
 //        int sum = 0;
 //        //for(int i=0; i<10; i++) - Goes from i=0 to i=9
