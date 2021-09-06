@@ -1,12 +1,16 @@
 /*
 
 
-break and continue in Java
-Break statement :
+break and continue in Java :
+
+       Break statement :
+
 The break statement is used to exit the loop irrespective of whether the condition is true or false.
 Whenever a ‘break’ is encountered inside the loop, the control is sent outside the loop.
 Syntax :
+
 break;
+
 Example to demonstrate the use of break inside a for loop :
 public class CWH_break {
 public static void main(String[] args) {
@@ -23,15 +27,21 @@ Output :
 10
 9
 8
+
 Flow control of break statement :
 
 
 Continue statement :
-The continue statement is used to immediately move to the next iteration of the loop.
-The control is taken to the next iteration thus skipping everything below ‘continue’ inside the loop for that iteration.
+
+            The continue statement is used to immediately move to the next iteration of the loop.
+The control is taken to the next iteration thus skipping everything below ‘continue’ inside the loop for that+
+ iteration.
 Syntax :
+
 continue;
+
 Example to demonstrate the use of continue statement inside a for loop :
+
 public class CWH_continue {
 public static void main(String[] args) {
 
@@ -50,7 +60,7 @@ Output :
 4
 2
 1
-Flow control of continue statement :
+
 
 
 In a Nut Shell …
@@ -58,9 +68,7 @@ break statement completely exits the loop
 continue statement skips the particular iteration of the loop.
 Handwritten Notes: Click to Download
 
-Ultimate Java Cheatsheet: Click To Download
 
-Code as Described in the Video
 package com.company;
 
 public class cwh_24_break_and_continue {
