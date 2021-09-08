@@ -57,7 +57,9 @@ public class _03_VariableandDatatype {
 //        int num2=66;
         int num3=33;
         int sum = num1  +num3;
+        int product = num1  * num3;
         System.out.println(sum);
-        
+        System.out.println(product);
+
         }
 }
