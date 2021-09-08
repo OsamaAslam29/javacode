@@ -15,7 +15,7 @@
          * System.out.println(Hello World"):
                                   * This code is used to display the output on the screen.
                                   * Anything passed inside the inverted commas will show on the output.
-         ******** Naming Conventions
+         ******** Naming Conventions :
 
                                 * For classes, we use Pascal Convention. The first and Subsequent characters from a
    word are capital letters (uppercase).
@@ -26,8 +26,7 @@
  characters are uppercase like myScanner, myMarks.
 
 
-*
-*
+
 
 
   */
@@ -39,11 +38,11 @@
 public class _2_SecondJavaprogram {
     public static void main(String[] args) {
           System.out.println("HELLOW ");
-         String a= "osama";
-        System.out.println("osama"+ "HELLOW");
+//         String a= "osama";
+        System.out.println("osama"+ "HELLOW Are you osama");
         System.out.println("abc");
         String F = "cde";
-        System.out.println("abc" + a);
+//        System.out.println("abc" + a);
           String c = "abc".substring(2, 3);
         // String d = cde.substring(1, 2);
 
