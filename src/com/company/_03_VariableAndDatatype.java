@@ -47,7 +47,7 @@ Example: int number = 10; (Here, int is a data type, the number is the variable 
  */
 
 
-public class _03_VariableandDatatype {
+public class _03_VariableAndDatatype {
      public static void main(String[] args) {
         byte num1= 10;
         byte num2=66;

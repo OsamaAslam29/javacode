@@ -1,10 +1,10 @@
 /*
 //         ***********  Java Programming Exercise 1: CBSE Board Percentage Calculator
 
-//*********** Exercise 1:
+   *********** Exercise 1:
 
-//  Write a program to calculate the percentage of a given student in the CBSE board exam. His marks from 5
-//  subjects must be taken as input from the keyboard. (Marks are out of 100)
+  Write a program to calculate the percentage of a given student in the CBSE board exam. His marks from 5
+  subjects must be taken as input from the keyboard. (Marks are out of 100)
 
 */
      package com.company;

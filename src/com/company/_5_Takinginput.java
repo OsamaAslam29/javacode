@@ -1,5 +1,6 @@
 /*
- ***********Getting User Input in Java:
+
+                              *********** Getting User Input in Java:
 
     ********Reading data from the Keyboard :
 
@@ -14,27 +15,27 @@ below example :
 
             Scanner S = new Scanner(System.in);  //(Read from the keyboard)
             int a = S.nextInt();  //(Method to read from the keyboard)
- */
-// Related Program:
 
+
+   */
 import java.util.Scanner;
 public class _5_Takinginput {
     public static void main(String[] args) {
         System.out.println("Taking Input From the User");
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter number 1");
+        System.out.print("Enter number 1 : ");
         int a = sc.nextInt();
-        float a1 = sc.nextFloat();
-        System.out.println("Enter number 2");
+//        float a1 = sc.nextFloat();
+        System.out.print("Enter number 2 : ");
         int b = sc.nextInt();
-        float b1 = sc.nextFloat();
+//        float b1 = sc.nextFloat();
 
         int sum = a +b;
         float sum1 = a +b;
-        System.out.println("The sum of these numbers is");
+        System.out.println(" The sum of these numbers is ");
         System.out.println(sum);
         boolean b2 = sc.hasNextInt();
-        System.out.println(b1);
+//        System.out.println(b1);
         String str = sc.next();
         String str1 = sc.nextLine();
         System.out.println(str);
