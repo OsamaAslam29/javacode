@@ -27,8 +27,8 @@ Java Installation :
              JRE = Stand for Java Runtime Environment : It helps in executing java programs.
 
 
+                    * can visit the hand written notes for installing intelij
 */
-
 
 
         package com.company;
