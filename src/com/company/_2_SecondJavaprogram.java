@@ -2,8 +2,9 @@
                       **********( Basic Structure of Java Program )************
 
          *   Package com.company :
-                                  * Packages are used to group the related classes.
-                                  * The "Package" keyword is used to create packages in java.
+                                    The "Package" keyword is used to create packages in java.
+
+                                  *  Packages are used to group the related classes.
                                   * Com.company is the name of our package.
 
          *    Public class Main :
@@ -31,8 +32,6 @@
 
   */
 
-
-
     package com.company;
 
 public class _2_SecondJavaprogram {
@@ -40,6 +39,7 @@ public class _2_SecondJavaprogram {
           System.out.println("HELLOW ");
 //         String a= "osama";
         System.out.println("osama"+ "HELLOW Are you osama");
+        System.out.println("osama HELLOW Are you osama");
         System.out.println("abc");
         String F = "cde";
 //        System.out.println("abc" + a);
