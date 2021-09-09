@@ -46,18 +46,14 @@ Example: int number = 10; (Here, int is a data type, the number is the variable 
 
  */
 
-        // Quick Quiz: Write a Java program to add three numbers
-      // Related Program:
-
-
 
 public class _03_VariableandDatatype {
      public static void main(String[] args) {
-        int num1= 10;
-//        int num2=66;
-        int num3=33;
-        int sum = num1  +num3;
-        int product = num1  * num3;
+        byte num1= 10;
+        byte num2=66;
+        byte num3=33;
+        int sum = num1+num2  +num3;
+        int product = num1*num2  * num3;
         System.out.println(sum);
         System.out.println(product);
 
