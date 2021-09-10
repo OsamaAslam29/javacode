@@ -39,8 +39,8 @@ public class _07_Java_Practice {
 
           // Question no.4:
 
-        // Write a Java program to convert Kilometers to miles:
-
+//        // Write a Java program to convert Kilometers to miles:
+//
 //
 //        System.out.println("ENTER KILOMETERS : ");
 //

@@ -124,14 +124,14 @@ package com.company;
 public class _08_Operators {
     public static void main(String[] args) {
 
-        System.out.println(" Operatos " ) ;
-        System.out.println(" Types of operators " ) ;
-        System.out.println(" There are five types of Operators : " ) ;
-        System.out.println(" No.1: Arithmatic Operators : \n int a+b=10; --> int a-b=5; --> int a*b=6; etc." ) ;
-        System.out.println(" No.2: Assignment Operators : \n int a=10; --> int a +=10; --> int a *=5  etc." ) ;
-        System.out.println(" No.3: logical Operators : \n (10>5)&&(10==5)-->False (10<5)||(10!=5)-->(10<5)!(10==5)-->true etc." ) ;
-        System.out.println(" No.4: Comparison Operators : \n int a==b;--> int a!=b; --> int a>b;  --> int a >=b; etc." ) ;
-        System.out.println(" No.5: Bitwish Operators :\n no need to explain yet" ) ;
+//        System.out.println(" Operatos " ) ;
+//        System.out.println(" Types of operators " ) ;
+//        System.out.println(" There are five types of Operators : " ) ;
+//        System.out.println(" No.1: Arithmatic Operators : \n int a+b=10; --> int a-b=5; --> int a*b=6; etc." ) ;
+//        System.out.println(" No.2: Assignment Operators : \n int a=10; --> int a +=10; --> int a *=5  etc." ) ;
+//        System.out.println(" No.3: logical Operators : \n (10>5)&&(10==5)-->False (10<5)||(10!=5)-->(10<5)!(10==5)-->true etc." ) ;
+//        System.out.println(" No.4: Comparison Operators : \n int a==b;--> int a!=b; --> int a>b;  --> int a >=b; etc." ) ;
+//        System.out.println(" No.5: Bitwish Operators :\n no need to explain yet" ) ;
 
         System.out.println("---------------------------");
         System.out.println("Logical operators :");
