@@ -19,11 +19,11 @@ public class _07_Java_Practice {
 
     //    Write a program to calculate CGPA using marks of three subjects (out of 100)
 
-//                   float subject1=14;
-//                   float subject2=54;
-//                   float subject3=74;
-//                   float cgpa= (subject1+subject2+subject3)/30;
-//                   System.out.println(cgpa);
+                   float subject1=14;
+                   float subject2=54;
+                   float subject3=74;
+                   float cgpa= (subject1+subject2+subject3)/30;
+                   System.out.println(cgpa);
 
         //      Question no.3:
 
